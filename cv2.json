@@ -1,0 +1,31 @@
+[{
+	"personal_info":[
+		{
+			"name":"Mohamed Shahat",
+			"email":"mohamedshahat028@gmail.com",
+			"phone":"+201270819485",
+			"address":"128 mahmoudya Road Mohrambek Alexandria",
+			"zip_code":"21566"
+	}
+
+],"links" : [
+		{
+			"linkedin":"https://www.linkedin.com/in/mohamedshahat-shiky",
+			"github":"https://github.com/shiky8",
+			"website":"https://shiky.netlify.app/",
+			"credly":"https://www.credly.com/users/mohamed-shahat-bakr"
+		}
+
+	],
+	"objective":"Highly motivated and dynamic fresh graduate software engineer with a strong passion for cyber security. Seeking a challenging position as a Software Engineer or Cyber Security Engineer to utilize my technical skills and contribute to the growth of an innovative organization.",
+	"skills":["Cyber Security","Attack Technologies","Git & GitHub","OS Security","Network Security","Cryptography","Mysql","Security fundamentals"],
+	"Soft_skills":["Communication","Teamwork","Problem-solving","Adaptability","Time managemen","Critical thinking","Quick learner"],
+	"progamming language":["Python","java","c#","bash","html","js","perl","ruby"],
+	"language":["English","Arabic"],
+	"Awards":"Starstruck",
+	"education":["AOU & OU","Graduated year : 2022","Major: computer science","GPA: 3.30"],
+	"certificates":["Cybersecurity Essentials","Introduction to Cybersecurity","Partner: NDG Linux Unhatched","Networking Essentials","Mobile Malware Analysis Fundamentals","Pentest Fundamentals:Scanning Networks","Cyber Network Security","Ethical Hacking","Intro to Bug Bounty Hunting and Web Application Hacking","CAP","Cybersecurity Fundamentals"],
+	"experience":["SUB","SAB"],
+	"project":"https://github.com/shiky8",
+	"Badges":"https://www.credly.com/users/mohamed-shahat-bakr"
+}]
