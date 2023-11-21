@@ -94,6 +94,8 @@ def project():
 @require_appkey
 def Badges():
     return jsonify(my_cv[0]["Badges"])
-
+@app.route('/')
+def home():
+    return "hi shiky"
 
 app.run(host='127.0.0.1', debug = False/True, ssl_context=context)
