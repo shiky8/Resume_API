@@ -98,4 +98,4 @@ def Badges():
 def home():
     return "hi shiky"
 
-app.run(host='127.0.0.1', debug = False/True, ssl_context=context)
+app.run(host='0.0.0.0', debug = False, ssl_context=context)
