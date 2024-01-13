@@ -6,7 +6,13 @@ Once you're set up with cURL or an API client, you can explore my API resume usi
 
 
  
+- [ ] **Resume:** API key:
 
+       eiWee8ep9due4deeshoa8Peichai8Eih
+ - [ ] **Resume:**  API header: 
+
+       'x-api-key':'eiWee8ep9due4deeshoa8Peichai8Eih'
+       
  - [ ] **Resume:** View Full Resume:
 
        https://shiky.pythonanywhere.com/cv/?key=eiWee8ep9due4deeshoa8Peichai8Eih
